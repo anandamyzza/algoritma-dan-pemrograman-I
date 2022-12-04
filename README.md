@@ -22,5 +22,5 @@ This lecture will discuss material on implementing basic algorithms such as:<br>
 ## Evaluation
 The lecture process is carried out with theory and practice where assessment is carried out through quizzes, UTS (Mid Semester Examination), UAS (Final Semester Examination), assignments, and practicum.
 
-## Reference
+#### Reference
 Rosa, A.S. and Shalahuddin, M., 2010. [Algoritma dan Pemrograman](http://rosa-as.id/buku/df.php?df=7). Penerbit Modula.
